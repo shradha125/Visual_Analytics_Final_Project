@@ -1,5 +1,4 @@
 # Analysing Earthquake using JavaScript
-DSE_I2700_Visual_Analytics_Final_project Repo
 
 Glitch Link to the Dashboard: https://broad-panoramic-word.glitch.me/ 
 

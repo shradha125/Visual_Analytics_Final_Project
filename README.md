@@ -2,6 +2,7 @@
 DSE_I2700_Visual_Analytics_Final_project Repo
 
 Glitch Link to the Dashboard: https://broad-panoramic-word.glitch.me/ 
+
 Glitch Link to the Code: https://glitch.com/edit/#!/broad-panoramic-word?path=README.md%3A1%3A0 
 
 Introduction

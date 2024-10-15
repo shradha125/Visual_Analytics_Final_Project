@@ -1,4 +1,4 @@
-# Analysing Earthquake using JavaScript
+# Earthquake Data Analysis and Visualization Using JavaScript
 
 Glitch Link to the Dashboard: https://broad-panoramic-word.glitch.me/ 
 

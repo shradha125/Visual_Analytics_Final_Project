@@ -1,7 +1,8 @@
 # Analysing Earthquake using JavaScript
 DSE_I2700_Visual_Analytics_Final_project Repo
 
-Glitch Link: https://glitch.com/edit/#!/broad-panoramic-word?path=README.md%3A1%3A0 
+Glitch Link to the Dashboard: https://broad-panoramic-word.glitch.me/ 
+Glitch Link to the Code: https://glitch.com/edit/#!/broad-panoramic-word?path=README.md%3A1%3A0 
 
 Introduction
 The domain we have chosen for our final project is Geospatial Data Analysis which invloves events with the location on the earth surface. Usually Geospatial data includes geographical coordinates, characteristics and the time span of an event. Here we have particularly chosen Earthquake Analysis because it helps us to analysis a seismic event and its effect on a particular location of the Earth Surface. It helps us to understand the earthquake dynamics and their impacts on the world.
